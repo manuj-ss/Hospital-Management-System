@@ -17,12 +17,12 @@ Doctor's Availability: Patients can check the real-time availability of doctors,
 Database Interaction: Form data is efficiently stored and retrieved using the GET and POST methods, ensuring accurate and up-to-date information.
 
 Requirements-
-flask
-Flask-SQLAlchemy
-Flask-Login
-Flask-Mail
-MarkupPy
-pywin32
-mysqlclient
-SQLAlchemy
+flask |
+Flask-SQLAlchemy |
+Flask-Login |
+Flask-Mail |
+MarkupPy |
+pywin32 |
+mysqlclient |
+SQLAlchemy |
 sqlparse
